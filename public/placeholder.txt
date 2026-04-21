@@ -1,0 +1,2 @@
+This folder is for public assets like images, icons, and logos.
+Any file placed here can be accessed directly via the root URL (e.g., /myimage.png).
